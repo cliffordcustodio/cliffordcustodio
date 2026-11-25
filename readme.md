@@ -2,8 +2,7 @@
 
 I enjoy using data to help people make better decisions. My experience in SQL data modeling, KPI development, and Power BI allows me to create reports that are easy to understand and act on.
 
-📍 Dallas TX, USA &nbsp;|&nbsp; 💼 Open to Data Analyst / BI Analyst / Risk Analyst roles
-
+📍 Dallas TX, USA
 ---
 
 ## 🛠 Tools & Skills
