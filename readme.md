@@ -108,7 +108,6 @@ Power BI
 
 # Certifications & Learning
 
-- NIST Cybersecurity Framework
 - Governance, Risk & Compliance
 - Risk Management
 - Power BI
