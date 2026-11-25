@@ -1,37 +1,122 @@
-# Hello, I'm Clifford C.
+# Hi, I'm Clifford Custodio 👋
 
-I enjoy using data to help people make better decisions. My experience in SQL data modeling, KPI development, and Power BI allows me to create reports that are easy to understand and act on.
+## Senior Compliance Risk, Governance & Analytics Leader
 
-📍 Dallas TX, USA
----
+Experienced compliance, governance, and analytics professional with 25+ years of experience translating regulatory requirements into operational controls, governance frameworks, reporting solutions, and executive decision-support analytics.
 
-## 🛠 Tools & Skills
+### Core Expertise
 
-| Area | Tools |
-|---|---|
-| **Databases & Querying** | SQL Server, T-SQL, Schema Modeling, ETL, Data Cleaning |
-| **BI & Visualization** | Power BI, DAX, Power Query |
-| **Analytics** | KPI Engineering, Business Requirements |
-| **Documentation** | GitHub, Markdown, Data Dictionaries |
-
-
----
-
-## 📊 Featured Project
-
-### [AscendBI](https://github.com/cliffordcustodio/AscendBI): Revenue Command Center
-An end-to-end sales and profitability analytics solution built on **AdventureWorksDW2022** with SQL Server and Power BI.
-
-- **Business question:** [e.g. Where is revenue growing, and which products and territories drive it?]
-- **What I built:** [star schema, SQL scripts, DAX measures, interactive dashboard]
-- **Key finding:** [add one real number from your analysis]
-
-![Dashboard preview](link-to-your-screenshot.png)
+- Governance, Risk & Compliance (GRC)
+- Regulatory Change Management
+- Controls & Testing
+- Compliance Analytics
+- Risk Analytics
+- SQL Server
+- Power BI
+- Python
+- AWS
+- Data Governance
+- Executive Reporting
 
 ---
 
-## 📫 Connect With Me
+# Featured Project
 
-- 💼 LinkedIn: https://www.linkedin.com/in/clifford-custodio-62a50930/
-- 📧 Email: clifford.custodio@yahoo.com
-- 🌐 Portfolio: [Power BI public link or website, if any]
+## Global Risk & Compliance Intelligence Platform
+
+An end-to-end Governance, Risk & Compliance (GRC) analytics platform demonstrating how modern organizations can transform compliance data into executive intelligence.
+
+### Architecture
+
+```text
+AWS S3
+   ↓
+Python ETL
+   ↓
+SQL Server
+   ↓
+Power BI
+```
+
+### Key Capabilities
+
+✅ Regulatory Change Management
+
+✅ Enterprise Risk Management
+
+✅ Control Inventory & Monitoring
+
+✅ Control Testing Analytics
+
+✅ Audit Findings Tracking
+
+✅ Remediation Management
+
+✅ Compliance Incident Management
+
+✅ Access Governance Reviews
+
+### Technology Stack
+
+| Layer | Technology |
+|---------|------------|
+| Storage | AWS S3 |
+| ETL | Python |
+| Database | SQL Server |
+| Analytics | Power BI |
+| Source Control | GitHub |
+
+### Features
+
+- Automated ETL Processing
+- Relational Data Modeling
+- Star Schema Reporting Design
+- Executive KPI Dashboards
+- Risk Heat Maps
+- Compliance Monitoring
+- Audit Reporting
+- Access Governance Analytics
+
+### Documentation
+
+- Architecture Design
+- Data Model Documentation
+- ETL Design
+- KPI Catalog
+- Dashboard Design
+- SQL Deployment Scripts
+
+### Repository
+
+🔗 **GlobalCompliance**
+
+> Demonstrates enterprise Governance, Risk & Compliance analytics commonly used in banking, financial services, consulting, and regulated industries.
+
+---
+
+# Current Focus
+
+- Compliance Analytics
+- Risk Governance
+- Power BI Dashboard Development
+- AWS Data Engineering
+- Python Data Automation
+- SQL Server Analytics
+- Cybersecurity Governance
+
+---
+
+# Certifications & Learning
+
+- NIST Cybersecurity Framework
+- Governance, Risk & Compliance
+- Risk Management
+- Power BI
+- Python Data Engineering
+- AWS Cloud Technologies
+
+---
+
+# Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/clifford-custodio-62a50930/
