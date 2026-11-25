@@ -22,7 +22,7 @@ Experienced compliance, governance, and analytics professional with 25+ years of
 
 # Featured Project
 
-## Global Risk & Compliance Intelligence Platform
+## [Global Risk & Compliance Intelligence Platform](https://github.com/cliffordcustodio/ComplianceDashboard)
 
 An end-to-end Governance, Risk & Compliance (GRC) analytics platform demonstrating how modern organizations can transform compliance data into executive intelligence.
 
