@@ -1,8 +1,8 @@
 # Hi, I'm Clifford Custodio 👋
 
-## Senior Compliance Risk, Governance & Analytics Leader
+## Compliance Risk, Governance & Analytics Leader
 
-Experienced compliance, governance, and analytics professional with 25+ years of experience translating regulatory requirements into operational controls, governance frameworks, reporting solutions, and executive decision-support analytics.
+Experienced compliance, governance, and analytics professional with 25+ years of experience in translating regulatory requirements into operational controls, governance frameworks, reporting solutions, and executive decision-support analytics.
 
 ### Core Expertise
 
